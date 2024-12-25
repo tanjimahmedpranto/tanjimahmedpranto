@@ -34,10 +34,12 @@
 ###
 
 <p align="left">
-  🔭 I’m working as a Full Stack Developer<br>
+  🔭 I’m progressing as a Full Stack Developer<br>
   📚 I'm currently learning Machine Learning, AI, and Data Science<br>
-  ⚡ In my free time, I watch movies, try new things, and chill with my people
+  ⚡ In my free time, I watch movies, try new things, and chill with my people<br>
+  📧 You can reach me at: tanjim.outcast@gmail.com
 </p>
+
 
 ###
 
@@ -67,9 +69,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
-  <img src="
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-          " height="40" alt="Django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" alt="Django logo" />
 
   <!-- Databases -->
   <img width="12" />
@@ -89,7 +89,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
 </div>
 
 
