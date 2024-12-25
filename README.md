@@ -34,7 +34,7 @@
 ###
 
 <p align="left">
-  🔭 I’m progressing as a Full Stack Developer<br>
+  🔭 I’m progressing as a Full Stack Developer and part-time Graphic Designer | UI/UX Designer <br>
   📚 I'm currently learning Machine Learning, AI, and Data Science<br>
   ⚡ In my free time, I watch movies, try new things, and chill with my people<br>
   📧 You can reach me at: tanjim.outcast@gmail.com
