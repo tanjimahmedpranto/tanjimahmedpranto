@@ -11,7 +11,7 @@
   <a href="mailto:tanjim.outcast@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email logo" />
   </a>
-  <a href="https://sites.google.com/view/tanjimpranto" target="_blank">
+  <a href="https://tanjim-pranto.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo" />
   </a>
 </div>
